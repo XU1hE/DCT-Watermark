@@ -184,3 +184,19 @@ Each transformation is applied, and the results are saved in the `modified_image
 ## Conclusion
 This project demonstrates the process of embedding an invisible digital watermark into an image using Discrete Cosine Transform (DCT). The watermark remains undetectable to the human eye but can be extracted after various image transformations. This technique provides a robust solution for protecting the copyright of digital images and ensuring the ownership of the content.
 
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software under the terms of the license. For more details, see the [LICENSE](LICENSE) file included in this repository.
+
+---
+
+## Contact
+
+If you have any questions, suggestions, or feedback regarding this project, feel free to reach out:
+
+- **Name**:   Xu Y.
+- **Email**:  yihe8552@gmail.com
+- **GitHub**: [XU1hE's GitHub Profile](https://github.com/XU1hE)
+
+
+We appreciate your interest in this project and welcome collaboration opportunities.
